@@ -1,0 +1,1 @@
+Docket image build automation
